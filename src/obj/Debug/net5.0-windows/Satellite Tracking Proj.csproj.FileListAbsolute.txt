@@ -1,0 +1,21 @@
+C:\Users\EGOR\source\repos\CourseWork\Satellite Tracking Project\Satellite Tracking Proj\bin\Debug\net5.0-windows\Satellite Tracking Proj.exe
+C:\Users\EGOR\source\repos\CourseWork\Satellite Tracking Project\Satellite Tracking Proj\bin\Debug\net5.0-windows\Satellite Tracking Proj.deps.json
+C:\Users\EGOR\source\repos\CourseWork\Satellite Tracking Project\Satellite Tracking Proj\bin\Debug\net5.0-windows\Satellite Tracking Proj.runtimeconfig.json
+C:\Users\EGOR\source\repos\CourseWork\Satellite Tracking Project\Satellite Tracking Proj\bin\Debug\net5.0-windows\Satellite Tracking Proj.runtimeconfig.dev.json
+C:\Users\EGOR\source\repos\CourseWork\Satellite Tracking Project\Satellite Tracking Proj\bin\Debug\net5.0-windows\Satellite Tracking Proj.dll
+C:\Users\EGOR\source\repos\CourseWork\Satellite Tracking Project\Satellite Tracking Proj\bin\Debug\net5.0-windows\ref\Satellite Tracking Proj.dll
+C:\Users\EGOR\source\repos\CourseWork\Satellite Tracking Project\Satellite Tracking Proj\bin\Debug\net5.0-windows\Satellite Tracking Proj.pdb
+C:\Users\EGOR\source\repos\CourseWork\Satellite Tracking Project\Satellite Tracking Proj\obj\Debug\net5.0-windows\Satellite Tracking Proj.csproj.AssemblyReference.cache
+C:\Users\EGOR\source\repos\CourseWork\Satellite Tracking Project\Satellite Tracking Proj\obj\Debug\net5.0-windows\Satellite_Tracking_Proj.Resources.Resource1.resources
+C:\Users\EGOR\source\repos\CourseWork\Satellite Tracking Project\Satellite Tracking Proj\obj\Debug\net5.0-windows\Satellite_Tracking_Proj.Form1.resources
+C:\Users\EGOR\source\repos\CourseWork\Satellite Tracking Project\Satellite Tracking Proj\obj\Debug\net5.0-windows\Satellite Tracking Proj.csproj.GenerateResource.cache
+C:\Users\EGOR\source\repos\CourseWork\Satellite Tracking Project\Satellite Tracking Proj\obj\Debug\net5.0-windows\Satellite Tracking Proj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EGOR\source\repos\CourseWork\Satellite Tracking Project\Satellite Tracking Proj\obj\Debug\net5.0-windows\Satellite Tracking Proj.AssemblyInfoInputs.cache
+C:\Users\EGOR\source\repos\CourseWork\Satellite Tracking Project\Satellite Tracking Proj\obj\Debug\net5.0-windows\Satellite Tracking Proj.AssemblyInfo.cs
+C:\Users\EGOR\source\repos\CourseWork\Satellite Tracking Project\Satellite Tracking Proj\obj\Debug\net5.0-windows\Satellite Tracking Proj.csproj.CoreCompileInputs.cache
+C:\Users\EGOR\source\repos\CourseWork\Satellite Tracking Project\Satellite Tracking Proj\obj\Debug\net5.0-windows\Satellite Tracking Proj.dll
+C:\Users\EGOR\source\repos\CourseWork\Satellite Tracking Project\Satellite Tracking Proj\obj\Debug\net5.0-windows\ref\Satellite Tracking Proj.dll
+C:\Users\EGOR\source\repos\CourseWork\Satellite Tracking Project\Satellite Tracking Proj\obj\Debug\net5.0-windows\Satellite Tracking Proj.pdb
+C:\Users\EGOR\source\repos\CourseWork\Satellite Tracking Project\Satellite Tracking Proj\obj\Debug\net5.0-windows\Satellite Tracking Proj.genruntimeconfig.cache
+C:\Users\EGOR\source\repos\CourseWork\Satellite Tracking Project\Satellite Tracking Proj\bin\Debug\net5.0-windows\System.Windows.Forms.DataVisualization.dll
+C:\Users\EGOR\source\repos\CourseWork\Satellite Tracking Project\Satellite Tracking Proj\obj\Debug\net5.0-windows\Satellite Tracking Proj.csproj.CopyComplete

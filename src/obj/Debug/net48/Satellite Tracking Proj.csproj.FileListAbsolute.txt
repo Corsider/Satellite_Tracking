@@ -1,0 +1,12 @@
+C:\Users\EGOR\source\repos\CourseWork\Satellite Tracking Project\Satellite Tracking Proj\obj\Debug\net48\Satellite Tracking Proj.csproj.AssemblyReference.cache
+C:\Users\EGOR\source\repos\CourseWork\Satellite Tracking Project\Satellite Tracking Proj\obj\Debug\net48\Satellite_Tracking_Proj.Resources.Resource1.resources
+C:\Users\EGOR\source\repos\CourseWork\Satellite Tracking Project\Satellite Tracking Proj\obj\Debug\net48\Satellite_Tracking_Proj.View.Form1.resources
+C:\Users\EGOR\source\repos\CourseWork\Satellite Tracking Project\Satellite Tracking Proj\obj\Debug\net48\Satellite Tracking Proj.csproj.GenerateResource.cache
+C:\Users\EGOR\source\repos\CourseWork\Satellite Tracking Project\Satellite Tracking Proj\obj\Debug\net48\Satellite Tracking Proj.AssemblyInfoInputs.cache
+C:\Users\EGOR\source\repos\CourseWork\Satellite Tracking Project\Satellite Tracking Proj\obj\Debug\net48\Satellite Tracking Proj.AssemblyInfo.cs
+C:\Users\EGOR\source\repos\CourseWork\Satellite Tracking Project\Satellite Tracking Proj\obj\Debug\net48\Satellite Tracking Proj.csproj.CoreCompileInputs.cache
+C:\Users\EGOR\source\repos\CourseWork\Satellite Tracking Project\Satellite Tracking Proj\bin\Debug\net48\Satellite Tracking Proj.exe.config
+C:\Users\EGOR\source\repos\CourseWork\Satellite Tracking Project\Satellite Tracking Proj\bin\Debug\net48\Satellite Tracking Proj.exe
+C:\Users\EGOR\source\repos\CourseWork\Satellite Tracking Project\Satellite Tracking Proj\bin\Debug\net48\Satellite Tracking Proj.pdb
+C:\Users\EGOR\source\repos\CourseWork\Satellite Tracking Project\Satellite Tracking Proj\obj\Debug\net48\Satellite Tracking Proj.exe
+C:\Users\EGOR\source\repos\CourseWork\Satellite Tracking Project\Satellite Tracking Proj\obj\Debug\net48\Satellite Tracking Proj.pdb

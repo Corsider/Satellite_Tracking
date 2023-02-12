@@ -1,0 +1,37 @@
+C:\Users\EGOR\source\repos\CourseWork\Satellite Tracking Project\Satellite Tracking Proj ren\bin\Debug\netcoreapp3.1\Satellite Tracking Proj.exe
+C:\Users\EGOR\source\repos\CourseWork\Satellite Tracking Project\Satellite Tracking Proj ren\bin\Debug\netcoreapp3.1\Satellite Tracking Proj.deps.json
+C:\Users\EGOR\source\repos\CourseWork\Satellite Tracking Project\Satellite Tracking Proj ren\bin\Debug\netcoreapp3.1\Satellite Tracking Proj.runtimeconfig.json
+C:\Users\EGOR\source\repos\CourseWork\Satellite Tracking Project\Satellite Tracking Proj ren\bin\Debug\netcoreapp3.1\Satellite Tracking Proj.runtimeconfig.dev.json
+C:\Users\EGOR\source\repos\CourseWork\Satellite Tracking Project\Satellite Tracking Proj ren\bin\Debug\netcoreapp3.1\Satellite Tracking Proj.dll
+C:\Users\EGOR\source\repos\CourseWork\Satellite Tracking Project\Satellite Tracking Proj ren\bin\Debug\netcoreapp3.1\Satellite Tracking Proj.pdb
+C:\Users\EGOR\source\repos\CourseWork\Satellite Tracking Project\Satellite Tracking Proj ren\bin\Debug\netcoreapp3.1\System.Windows.Forms.DataVisualization.dll
+C:\Users\EGOR\source\repos\CourseWork\Satellite Tracking Project\Satellite Tracking Proj ren\obj\Debug\netcoreapp3.1\Satellite_Tracking_Proj.Resources.Resource1.resources
+C:\Users\EGOR\source\repos\CourseWork\Satellite Tracking Project\Satellite Tracking Proj ren\obj\Debug\netcoreapp3.1\Satellite_Tracking_Proj.Form1.resources
+C:\Users\EGOR\source\repos\CourseWork\Satellite Tracking Project\Satellite Tracking Proj ren\obj\Debug\netcoreapp3.1\Satellite Tracking Proj.csproj.GenerateResource.cache
+C:\Users\EGOR\source\repos\CourseWork\Satellite Tracking Project\Satellite Tracking Proj ren\obj\Debug\netcoreapp3.1\Satellite Tracking Proj.AssemblyInfoInputs.cache
+C:\Users\EGOR\source\repos\CourseWork\Satellite Tracking Project\Satellite Tracking Proj ren\obj\Debug\netcoreapp3.1\Satellite Tracking Proj.AssemblyInfo.cs
+C:\Users\EGOR\source\repos\CourseWork\Satellite Tracking Project\Satellite Tracking Proj ren\obj\Debug\netcoreapp3.1\Satellite Tracking Proj.csproj.CoreCompileInputs.cache
+C:\Users\EGOR\source\repos\CourseWork\Satellite Tracking Project\Satellite Tracking Proj ren\obj\Debug\netcoreapp3.1\Satellite Tracking Proj.csproj.CopyComplete
+C:\Users\EGOR\source\repos\CourseWork\Satellite Tracking Project\Satellite Tracking Proj ren\obj\Debug\netcoreapp3.1\Satellite Tracking Proj.dll
+C:\Users\EGOR\source\repos\CourseWork\Satellite Tracking Project\Satellite Tracking Proj ren\obj\Debug\netcoreapp3.1\Satellite Tracking Proj.pdb
+C:\Users\EGOR\source\repos\CourseWork\Satellite Tracking Project\Satellite Tracking Proj ren\obj\Debug\netcoreapp3.1\Satellite Tracking Proj.genruntimeconfig.cache
+C:\Users\EGOR\source\repos\CourseWork\Satellite Tracking Project\Satellite Tracking Proj ren\bin\Debug\netcoreapp3.1\HarfBuzzSharp.dll
+C:\Users\EGOR\source\repos\CourseWork\Satellite Tracking Project\Satellite Tracking Proj ren\bin\Debug\netcoreapp3.1\LiveChartsCore.dll
+C:\Users\EGOR\source\repos\CourseWork\Satellite Tracking Project\Satellite Tracking Proj ren\bin\Debug\netcoreapp3.1\LiveChartsCore.SkiaSharpView.dll
+C:\Users\EGOR\source\repos\CourseWork\Satellite Tracking Project\Satellite Tracking Proj ren\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\EGOR\source\repos\CourseWork\Satellite Tracking Project\Satellite Tracking Proj ren\bin\Debug\netcoreapp3.1\SkiaSharp.dll
+C:\Users\EGOR\source\repos\CourseWork\Satellite Tracking Project\Satellite Tracking Proj ren\bin\Debug\netcoreapp3.1\SkiaSharp.HarfBuzz.dll
+C:\Users\EGOR\source\repos\CourseWork\Satellite Tracking Project\Satellite Tracking Proj ren\bin\Debug\netcoreapp3.1\runtimes\osx\native\libHarfBuzzSharp.dylib
+C:\Users\EGOR\source\repos\CourseWork\Satellite Tracking Project\Satellite Tracking Proj ren\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\libHarfBuzzSharp.dll
+C:\Users\EGOR\source\repos\CourseWork\Satellite Tracking Project\Satellite Tracking Proj ren\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\libHarfBuzzSharp.dll
+C:\Users\EGOR\source\repos\CourseWork\Satellite Tracking Project\Satellite Tracking Proj ren\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\libHarfBuzzSharp.dll
+C:\Users\EGOR\source\repos\CourseWork\Satellite Tracking Project\Satellite Tracking Proj ren\bin\Debug\netcoreapp3.1\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\EGOR\source\repos\CourseWork\Satellite Tracking Project\Satellite Tracking Proj ren\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\EGOR\source\repos\CourseWork\Satellite Tracking Project\Satellite Tracking Proj ren\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\EGOR\source\repos\CourseWork\Satellite Tracking Project\Satellite Tracking Proj ren\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\EGOR\source\repos\CourseWork\Satellite Tracking Project\Satellite Tracking Proj ren\bin\Debug\netcoreapp3.1\LiveChartsCore.SkiaSharpView.WinForms.dll
+C:\Users\EGOR\source\repos\CourseWork\Satellite Tracking Project\Satellite Tracking Proj ren\bin\Debug\netcoreapp3.1\OpenTK.dll
+C:\Users\EGOR\source\repos\CourseWork\Satellite Tracking Project\Satellite Tracking Proj ren\bin\Debug\netcoreapp3.1\OpenTK.GLControl.dll
+C:\Users\EGOR\source\repos\CourseWork\Satellite Tracking Project\Satellite Tracking Proj ren\bin\Debug\netcoreapp3.1\SkiaSharp.Views.Desktop.Common.dll
+C:\Users\EGOR\source\repos\CourseWork\Satellite Tracking Project\Satellite Tracking Proj ren\bin\Debug\netcoreapp3.1\SkiaSharp.Views.WindowsForms.dll
+C:\Users\EGOR\source\repos\CourseWork\Satellite Tracking Project\Satellite Tracking Proj ren\obj\Debug\netcoreapp3.1\Satellite Tracking Proj.csproj.AssemblyReference.cache
