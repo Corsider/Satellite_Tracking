@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Satellite_Tracking_Proj.Controller.Controller">
+    <Position X="3.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQwQIAIABhApGBIAAIgoAAAABAAAIAIowAAAAIDQAQI=</HashCode>
+      <FileName>Controller\Controller.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Satellite_Tracking_Proj.Model.Calculation">
+    <Position X="0.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAAAAAACAAAAAAAAAAAAACAAAAAAQAAA=</HashCode>
+      <FileName>Model\Calculation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Satellite_Tracking_Proj.Model.Earth">
+    <Position X="5.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAIAAAAAAEAEAAAAAAAAAAAAACAIAAAAAAIAAAAA=</HashCode>
+      <FileName>Model\Earth.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="controller" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Satellite_Tracking_Proj.Model.Orbit">
+    <Position X="5.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgBAIAAAAgIIAAAAAAAIAAgAAAAgAAkAQAAAIJBAgA=</HashCode>
+      <FileName>Model\Orbit.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Satellite_Tracking_Proj.Model.Satellite">
+    <Position X="8.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAwAAIAQAAAhAAQAAIBcKgAAwABAAAAAAABhAAAAIQA=</HashCode>
+      <FileName>Model\Satellite.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="earth" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Satellite_Tracking_Proj.Resources.Resource1" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAIAAAAQCAEAAAANFAAAEQAAAAAAAAACAQAIBIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Satellite_Tracking_Proj.Form1">
+    <Position X="11.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAIkAAkCBAoBMAIQCABICCAAQIAAIIACwAI4hTAAE=</HashCode>
+      <FileName>View\Form1.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Series" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Satellite_Tracking_Proj.Program">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Collections.ObjectModel.ObservableCollection&lt;T&gt;" Collapsed="true">
+    <Position X="14" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
